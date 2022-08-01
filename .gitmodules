@@ -1,0 +1,3 @@
+[submodule "weatherAppDucksTS/weatherapp"]
+	path = weatherAppDucksTS/weatherapp
+	url = https://github.com/jwkriewallLW/weatherAppDucksTS.git
